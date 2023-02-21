@@ -1,6 +1,5 @@
 import io
 import sys
-
 from parrot import parrot
 
 class TestParrot:
